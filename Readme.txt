@@ -13,3 +13,6 @@ TODOs:
 - Add blogs + substack blogs
 - Dates of projects 
 - Styling of project details 
+
+Update the domain name - 
+https://medium.com/@LovettLovett/github-pages-godaddy-f0318c2f25a
